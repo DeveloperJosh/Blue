@@ -192,3 +192,7 @@ body {
     transform: translateY(0px);
     transition-delay: 0.75s;
 }
+
+* {
+    cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1031.cur), auto !important;
+}
