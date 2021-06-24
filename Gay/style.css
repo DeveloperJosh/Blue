@@ -1,8 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap');
-body {
-    background-image: url(./Images/background.png);
-    background-repeat: no-repeat;
-}
 
 .container {
     position: absolute;
